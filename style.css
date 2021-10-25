@@ -1,0 +1,38 @@
+#start-btn
+{
+    width: 100px;
+    margin-bottom: 20px;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background-color: rgb(78, 77, 77);
+}
+h1 {
+    color: white;
+}
+.form-group{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
